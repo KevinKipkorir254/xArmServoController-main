@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\HP\Desktop\xArmServoController-main\c_plus_plus\build\CMakeFiles\8077ac408e1fb1a0c8fb7d05759ccad6\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{E16C03F6-9F27-35D8-A561-6183B7C3BDCD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
